@@ -1,12 +1,3 @@
-/**
-* @file ranger_messenger.cpp
-* @date 2021-04-20
-* @brief
-*
-# @copyright Copyright (c) 2021 AgileX Robotics
-* @copyright Copyright (c) 2023 Weston Robot Pte. Ltd.
-*/
-
 #include "ranger_base/ranger_messenger.hpp"
 #include "std_msgs/msg/bool.hpp" // Include the header for std_msgs::msg::Bool
 #include "ranger_base/kinematics_model.hpp"
