@@ -2,6 +2,7 @@
 # Line Tracking Ranger Robot
 
 Summer Project for CATS Lab (UW-Madison) 
+
 https://catslab.engr.wisc.edu/
 
 Developed closed-loop control system for a modular autonomous robot platform, enabling it to detect lanes and navigate within them autonomously.
