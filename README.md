@@ -19,6 +19,7 @@ Designed real-time lane and corner detection algorithm using OpenCV to accuratel
 * Utilized Hough transformation to detect left and right side of a lane (Green & Blue Line)
 * Created algorithm to generate driving line (Yellow Line)
 * Created algorithm to identify corner types (sharp turn, smooth turn)
+
 ![A screenshot of a computer Description
 automatically generated](./media/image_processing.png)
 
