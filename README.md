@@ -15,10 +15,11 @@ automatically generated](./media/ranger.png)
 
 ## Achievements
 
-Designed Real-Time Lane and Corner Detection Algorithm using OpenCV:
+Designed Real-Time Lane, Cornet Detection, and Depth Calculation Algorithms using OpenCV:
 * Applied Hough transformation to identify left and right lane boundaries (green & blue line)
 * Developed a custom algorithm to generate driving line (yellow line) and recognize corner types (sharp turn, smooth turn)
 * Increased accuracy by pre-processing images with reverse-perspective and Gaussian blur
+* Designed an average depth calculation algorithm to detect obstacles in the robot's path, enabling effective obstacle avoidance and safer navigation
 
 ![A screenshot of a computer Description
 automatically generated](./media/image_processing.png)
